@@ -8,10 +8,14 @@ on:
 
 jobs:
   scheduled:
-    runs-on: denoland/deno:latest
+    runs-on: ubuntu-latest
     steps:
       - name: Check out this repo
         uses: actions/checkout@v2
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
       - name: Fetch latest data from loipenportal
         run: |-
           deno run --allow-net --allow-write --unsafely-ignore-certificate-errors=www.loipenportal.de loipenportal/scrape.ts
