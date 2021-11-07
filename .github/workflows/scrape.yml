@@ -17,8 +17,9 @@ jobs:
         with:
           deno-version: v1.x
       - name: Fetch latest data from loipenportal
-        run: |-
-          deno run --allow-net --allow-write --unsafely-ignore-certificate-errors=www.loipenportal.de .github/workflows/loipenportal.ts
+        run: deno run --allow-net --allow-write --unsafely-ignore-certificate-errors=www.loipenportal.de .github/workflows/loipenportal.ts
+      - name: Fetch latest data from notschrei-loipe
+        run: deno run --allow-net --allow-write .github/workflows/notschrei-loipe.ts
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
