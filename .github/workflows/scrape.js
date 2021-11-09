@@ -45306,7 +45306,7 @@ const cheerio = dew332();
 async function fetchTimeout1(url) {
     const controller = new AbortController();
     const timeoutID = setTimeout(()=>controller.abort()
-    , 10);
+    , 60000);
     const res = await fetch(url, {
         signal: controller.signal
     });
