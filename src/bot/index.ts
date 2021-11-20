@@ -11,6 +11,10 @@ app.addEventListener("error", (evt) => {
   console.log(evt.error);
 });
 
+app.use((ctx) => {
+  ctx.response.body = "Hello World!";
+});
+
 app.use(webhookCallback(bot, "oak"));
 
 await app.listen({ port: 8000 });
