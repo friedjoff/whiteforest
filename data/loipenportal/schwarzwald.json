@@ -733,12 +733,12 @@
     {
       "SID": "863",
       "ZID": "70",
-      "status": "0",
+      "status": "1",
       "lastset": "1636018247",
       "snowheight": "",
-      "remarks": "",
+      "remarks": "Nur bedingt begehbar",
       "fl_remarks": "",
-      "date_spur": "26.11.21"
+      "date_spur": "27.11.21"
     },
     {
       "SID": "688",
