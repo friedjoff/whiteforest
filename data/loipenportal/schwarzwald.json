@@ -24,8 +24,8 @@
       "SID": "681",
       "ZID": "117",
       "status": "0",
-      "lastset": "1636379247",
-      "snowheight": "",
+      "lastset": "1638188057",
+      "snowheight": "10-35 cm",
       "remarks": "",
       "fl_remarks": "",
       "date_spur": "10.12.20"
@@ -174,8 +174,8 @@
       "SID": "684",
       "ZID": "117",
       "status": "0",
-      "lastset": "1636379247",
-      "snowheight": "",
+      "lastset": "1638188057",
+      "snowheight": "10-35 cm",
       "remarks": "Loipen- und Wetterinfos auch auf www.feldberg-loipen.de",
       "fl_remarks": "",
       "date_spur": ""
@@ -754,8 +754,8 @@
       "SID": "694",
       "ZID": "39",
       "status": "0",
-      "lastset": "1638172092",
-      "snowheight": "10-15 cm",
+      "lastset": "1638188057",
+      "snowheight": "10-35 cm",
       "remarks": "",
       "fl_remarks": "",
       "date_spur": "22.03.21"
@@ -924,18 +924,18 @@
       "SID": "679",
       "ZID": "117",
       "status": "0",
-      "lastset": "1636379247",
-      "snowheight": "",
+      "lastset": "1638188057",
+      "snowheight": "10-35 cm",
       "remarks": "",
       "fl_remarks": "",
-      "date_spur": "31.03.21"
+      "date_spur": ""
     },
     {
       "SID": "680",
       "ZID": "117",
       "status": "0",
-      "lastset": "1636379247",
-      "snowheight": "",
+      "lastset": "1638188057",
+      "snowheight": "10-35 cm",
       "remarks": "Geschlossen",
       "fl_remarks": "",
       "date_spur": "13.12.20"
@@ -954,8 +954,8 @@
       "SID": "758",
       "ZID": "69",
       "status": "0",
-      "lastset": "1638172934",
-      "snowheight": "5-25 cm",
+      "lastset": "1638188057",
+      "snowheight": "10-35 cm",
       "remarks": "",
       "fl_remarks": "",
       "date_spur": "19.03.21"
@@ -1014,18 +1014,18 @@
       "SID": "2006",
       "ZID": "117",
       "status": "0",
-      "lastset": "1636379247",
-      "snowheight": "",
+      "lastset": "1638188057",
+      "snowheight": "10-35 cm",
       "remarks": "Bleibt geschlossen",
       "fl_remarks": "",
-      "date_spur": "23.01.21"
+      "date_spur": ""
     },
     {
       "SID": "762",
       "ZID": "69",
       "status": "0",
-      "lastset": "1638173272",
-      "snowheight": "10-15 cm",
+      "lastset": "1638188057",
+      "snowheight": "10-35 cm",
       "remarks": "",
       "fl_remarks": "",
       "date_spur": "17.02.21"
@@ -1164,11 +1164,11 @@
       "SID": "686",
       "ZID": "117",
       "status": "0",
-      "lastset": "1636379247",
-      "snowheight": "",
+      "lastset": "1638188057",
+      "snowheight": "10-35 cm",
       "remarks": "",
       "fl_remarks": "",
-      "date_spur": "15.02.21"
+      "date_spur": ""
     },
     {
       "SID": "711",
@@ -1184,21 +1184,21 @@
       "SID": "687",
       "ZID": "117",
       "status": "0",
-      "lastset": "1636379247",
-      "snowheight": "",
+      "lastset": "1638188057",
+      "snowheight": "10-35 cm",
       "remarks": "",
       "fl_remarks": "",
-      "date_spur": "15.02.21"
+      "date_spur": ""
     },
     {
       "SID": "685",
       "ZID": "117",
       "status": "0",
-      "lastset": "1636379247",
-      "snowheight": "",
+      "lastset": "1638188057",
+      "snowheight": "10-35 cm",
       "remarks": "",
       "fl_remarks": "",
-      "date_spur": "15.02.21"
+      "date_spur": ""
     },
     {
       "SID": "793",
@@ -1224,8 +1224,8 @@
       "SID": "763",
       "ZID": "69",
       "status": "0",
-      "lastset": "1638172934",
-      "snowheight": "5-25 cm",
+      "lastset": "1638188057",
+      "snowheight": "10-35 cm",
       "remarks": "",
       "fl_remarks": "",
       "date_spur": "27.03.21"
@@ -1284,8 +1284,8 @@
       "SID": "691",
       "ZID": "39",
       "status": "0",
-      "lastset": "1638172092",
-      "snowheight": "10-15 cm",
+      "lastset": "1638188057",
+      "snowheight": "10-35 cm",
       "remarks": "",
       "fl_remarks": "",
       "date_spur": "27.03.21"
@@ -1454,8 +1454,8 @@
       "SID": "757",
       "ZID": "69",
       "status": "0",
-      "lastset": "1638172934",
-      "snowheight": "5-25 cm",
+      "lastset": "1638188057",
+      "snowheight": "10-35 cm",
       "remarks": "",
       "fl_remarks": "",
       "date_spur": "12.02.21"
@@ -1464,8 +1464,8 @@
       "SID": "761",
       "ZID": "69",
       "status": "0",
-      "lastset": "1638172934",
-      "snowheight": "5-25 cm",
+      "lastset": "1638188057",
+      "snowheight": "10-35 cm",
       "remarks": "",
       "fl_remarks": "",
       "date_spur": "19.03.21"
@@ -1594,8 +1594,8 @@
       "SID": "759",
       "ZID": "69",
       "status": "0",
-      "lastset": "1638172934",
-      "snowheight": "5-25 cm",
+      "lastset": "1638188057",
+      "snowheight": "10-35 cm",
       "remarks": "",
       "fl_remarks": "",
       "date_spur": "20.03.21"
