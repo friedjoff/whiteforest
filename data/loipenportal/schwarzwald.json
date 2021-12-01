@@ -1783,12 +1783,12 @@
     {
       "SID": "2003",
       "ZID": "70",
-      "status": "1",
+      "status": "0",
       "lastset": "1638343302",
       "snowheight": "15-30 cm",
-      "remarks": "***",
+      "remarks": "",
       "fl_remarks": "",
-      "date_spur": "01.12.21"
+      "date_spur": "15.03.21"
     },
     {
       "SID": "703",
