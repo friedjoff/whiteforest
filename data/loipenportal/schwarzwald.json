@@ -1516,7 +1516,7 @@
       "status": "0",
       "lastset": "1638343277",
       "snowheight": "20-25 cm",
-      "remarks": "Holzhofrunde gespurt !",
+      "remarks": "Holzhofrunde gespurt!",
       "fl_remarks": "",
       "date_spur": "30.11.21"
     },
@@ -1783,12 +1783,12 @@
     {
       "SID": "2003",
       "ZID": "70",
-      "status": "0",
+      "status": "1",
       "lastset": "1638343302",
       "snowheight": "15-30 cm",
-      "remarks": "",
+      "remarks": "***",
       "fl_remarks": "",
-      "date_spur": "15.02.21"
+      "date_spur": "01.12.21"
     },
     {
       "SID": "703",
