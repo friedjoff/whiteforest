@@ -43,12 +43,12 @@
     {
       "SID": "792",
       "ZID": "76",
-      "status": "0",
+      "status": "1",
       "lastset": "1638343325",
       "snowheight": "15-25 cm",
       "remarks": "",
       "fl_remarks": "",
-      "date_spur": "13.02.21"
+      "date_spur": "01.12.21"
     },
     {
       "SID": "1070",
@@ -1493,12 +1493,12 @@
     {
       "SID": "793",
       "ZID": "76",
-      "status": "0",
+      "status": "1",
       "lastset": "1638343325",
       "snowheight": "15-25 cm",
       "remarks": "",
       "fl_remarks": "",
-      "date_spur": "19.02.21"
+      "date_spur": "01.12.21"
     },
     {
       "SID": "783",
@@ -2103,12 +2103,12 @@
     {
       "SID": "794",
       "ZID": "76",
-      "status": "0",
+      "status": "1",
       "lastset": "1638343325",
       "snowheight": "15-25 cm",
       "remarks": "Warnung vor Schneebruch",
       "fl_remarks": "",
-      "date_spur": "13.02.21"
+      "date_spur": "01.12.21"
     }
   ],
   "SInfo_SID_Index": {
