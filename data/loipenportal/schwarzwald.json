@@ -1013,12 +1013,12 @@
     {
       "SID": "2006",
       "ZID": "117",
-      "status": "0",
+      "status": "1",
       "lastset": "1638419171",
       "snowheight": "30-40 cm",
-      "remarks": "Loipenzustand: gut<br>Bleibt geschlossen",
+      "remarks": "Loipenzustand: gut<br>",
       "fl_remarks": "",
-      "date_spur": ""
+      "date_spur": "03.12.21"
     },
     {
       "SID": "762",
