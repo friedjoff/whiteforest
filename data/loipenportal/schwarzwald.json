@@ -393,8 +393,8 @@
     {
       "SID": "",
       "ZID": "187",
-      "status": "1",
-      "lastset": "1639123419",
+      "status": "0",
+      "lastset": "1639142512",
       "snowheight": "30 cm",
       "remarks": "",
       "fl_remarks": "",
@@ -463,8 +463,8 @@
     {
       "SID": "700",
       "ZID": "187",
-      "status": "1",
-      "lastset": "1639123472",
+      "status": "0",
+      "lastset": "1639142564",
       "snowheight": "30 cm",
       "remarks": "",
       "fl_remarks": "",
@@ -533,8 +533,8 @@
     {
       "SID": "702",
       "ZID": "187",
-      "status": "1",
-      "lastset": "1639123439",
+      "status": "0",
+      "lastset": "1639142549",
       "snowheight": "30 cm",
       "remarks": "",
       "fl_remarks": "",
@@ -1713,8 +1713,8 @@
     {
       "SID": "698",
       "ZID": "187",
-      "status": "1",
-      "lastset": "1639123434",
+      "status": "0",
+      "lastset": "1639142538",
       "snowheight": "30 cm",
       "remarks": "",
       "fl_remarks": "",
