@@ -1193,7 +1193,7 @@
     {
       "SID": "863",
       "ZID": "70",
-      "status": "1",
+      "status": "0",
       "lastset": "1639395226",
       "snowheight": "25-40 cm",
       "remarks": "",
@@ -1463,12 +1463,12 @@
     {
       "SID": "859",
       "ZID": "70",
-      "status": "1",
+      "status": "0",
       "lastset": "1639395226",
       "snowheight": "25-40 cm",
       "remarks": "",
       "fl_remarks": "",
-      "date_spur": "12.12.21"
+      "date_spur": "13.12.21"
     },
     {
       "SID": "715",
