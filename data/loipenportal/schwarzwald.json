@@ -23,12 +23,12 @@
     {
       "SID": "696",
       "ZID": "39",
-      "status": "0",
+      "status": "1",
       "lastset": "1639378367",
       "snowheight": "20-50 cm",
       "remarks": "Loipenzustand: gut<br>",
       "fl_remarks": "",
-      "date_spur": "12.02.21"
+      "date_spur": "13.12.21"
     },
     {
       "SID": "792",
@@ -1203,12 +1203,12 @@
     {
       "SID": "778",
       "ZID": "75",
-      "status": "0",
+      "status": "1",
       "lastset": "1639380641",
       "snowheight": "25-45 cm",
       "remarks": "",
       "fl_remarks": "",
-      "date_spur": "11.02.21"
+      "date_spur": "13.12.21"
     },
     {
       "SID": "684",
