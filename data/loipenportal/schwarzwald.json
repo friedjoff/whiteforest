@@ -693,12 +693,12 @@
     {
       "SID": "692",
       "ZID": "39",
-      "status": "0",
+      "status": "1",
       "lastset": "1639378367",
       "snowheight": "20-50 cm",
       "remarks": "Loipenzustand: gut<br>",
       "fl_remarks": "",
-      "date_spur": "11.02.21"
+      "date_spur": "13.12.21"
     },
     {
       "SID": "710",
@@ -1613,12 +1613,12 @@
     {
       "SID": "690",
       "ZID": "39",
-      "status": "0",
+      "status": "1",
       "lastset": "1639378367",
       "snowheight": "20-50 cm",
       "remarks": "Loipenzustand: gut<br>",
       "fl_remarks": "",
-      "date_spur": ""
+      "date_spur": "13.12.21"
     },
     {
       "SID": "2000",
@@ -1823,12 +1823,12 @@
     {
       "SID": "689",
       "ZID": "39",
-      "status": "0",
+      "status": "1",
       "lastset": "1639378367",
       "snowheight": "20-50 cm",
       "remarks": "Loipenzustand: gut<br>",
       "fl_remarks": "",
-      "date_spur": ""
+      "date_spur": "13.12.21"
     },
     {
       "SID": "746",
@@ -2033,12 +2033,12 @@
     {
       "SID": "695",
       "ZID": "39",
-      "status": "0",
+      "status": "1",
       "lastset": "1639378367",
       "snowheight": "20-50 cm",
       "remarks": "Loipenzustand: gut<br>",
       "fl_remarks": "",
-      "date_spur": "14.02.21"
+      "date_spur": "13.12.21"
     },
     {
       "SID": "755",
