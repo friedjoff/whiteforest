@@ -1843,12 +1843,12 @@
     {
       "SID": "789",
       "ZID": "75",
-      "status": "1",
+      "status": "0",
       "lastset": "1639556042",
       "snowheight": "20-45 cm",
-      "remarks": "",
+      "remarks": "Stellenweise schlecht",
       "fl_remarks": "",
-      "date_spur": "12.12.21"
+      "date_spur": "15.12.21"
     },
     {
       "SID": "689",
