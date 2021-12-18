@@ -1153,8 +1153,8 @@
     {
       "SID": "12049",
       "ZID": "60",
-      "status": "1",
-      "lastset": "1639558767",
+      "status": "",
+      "lastset": "1639821002",
       "snowheight": "",
       "remarks": "",
       "fl_remarks": "",
@@ -1411,6 +1411,16 @@
       "date_spur": "12.12.21"
     },
     {
+      "SID": "",
+      "ZID": "60",
+      "status": "1",
+      "lastset": "1639820891",
+      "snowheight": "70 cm",
+      "remarks": "Die Loipen sind geöffnet - tolle Bedingungen!",
+      "fl_remarks": "",
+      "date_spur": ""
+    },
+    {
       "SID": "773",
       "ZID": "70",
       "status": "1",
@@ -1437,16 +1447,6 @@
       "lastset": "1512002980",
       "snowheight": "30",
       "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "",
-      "ZID": "60",
-      "status": "1",
-      "lastset": "1639558760",
-      "snowheight": "70 cm",
-      "remarks": "Die Loipen sind geöffnet - tolle Bedingungen!",
       "fl_remarks": "",
       "date_spur": ""
     },
@@ -1724,7 +1724,7 @@
       "SID": "12237",
       "ZID": "60",
       "status": "1",
-      "lastset": "1639558785",
+      "lastset": "1639821006",
       "snowheight": "",
       "remarks": "",
       "fl_remarks": "",
@@ -1744,7 +1744,7 @@
       "SID": "12238",
       "ZID": "60",
       "status": "1",
-      "lastset": "1639558790",
+      "lastset": "1639821011",
       "snowheight": "",
       "remarks": "",
       "fl_remarks": "",
@@ -2241,7 +2241,7 @@
     "770": 19,
     "771": 204,
     "772": 88,
-    "773": 141,
+    "773": 142,
     "774": 198,
     "775": 55,
     "776": 25,
@@ -2274,7 +2274,7 @@
     "858": 108,
     "859": 149,
     "860": 54,
-    "861": 142,
+    "861": 143,
     "862": 109,
     "863": 121,
     "1055": 106,
@@ -2320,7 +2320,7 @@
     "41": 82,
     "42": 97,
     "43": 158,
-    "60": 144,
+    "60": 141,
     "69": 183,
     "76": 75,
     "110": 94,
@@ -2335,6 +2335,6 @@
     "179": 36,
     "186": 134,
     "187": 182,
-    "205": 143
+    "205": 144
   }
 }
