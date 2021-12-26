@@ -1893,10 +1893,10 @@
     {
       "SID": "694",
       "ZID": "39",
-      "status": "1",
+      "status": "0",
       "lastset": "1640512272",
       "snowheight": "0-30 cm",
-      "remarks": "Vorsicht vor nachsackenden Nassstellen in Abfahrten!",
+      "remarks": "",
       "fl_remarks": "",
       "date_spur": "20.12.21"
     },
