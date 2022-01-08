@@ -133,12 +133,12 @@
     {
       "SID": "665",
       "ZID": "173",
-      "status": "0",
+      "status": "1",
       "lastset": "1641539201",
       "snowheight": "5 cm",
-      "remarks": "Schneezustand: fester Altschnee<br>",
+      "remarks": "Schneezustand: fester Altschnee<br>Nur 4km Gespurt",
       "fl_remarks": "",
-      "date_spur": "20.12.21"
+      "date_spur": "08.01.22"
     },
     {
       "SID": "658",
