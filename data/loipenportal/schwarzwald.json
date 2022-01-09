@@ -503,12 +503,12 @@
     {
       "SID": "731",
       "ZID": "126",
-      "status": "0",
+      "status": "1",
       "lastset": "1641712947",
       "snowheight": "15-25 cm",
       "remarks": "",
       "fl_remarks": "",
-      "date_spur": "18.12.21"
+      "date_spur": "09.01.22"
     },
     {
       "SID": "677",
@@ -763,12 +763,12 @@
     {
       "SID": "787",
       "ZID": "75",
-      "status": "0",
+      "status": "1",
       "lastset": "1641713135",
       "snowheight": "15-25 cm",
       "remarks": "Stellenweise schlecht",
       "fl_remarks": "",
-      "date_spur": "23.12.21"
+      "date_spur": "09.01.22"
     },
     {
       "SID": "",
@@ -1653,8 +1653,8 @@
     {
       "SID": "2000",
       "ZID": "176",
-      "status": "0",
-      "lastset": "1641635813",
+      "status": "",
+      "lastset": "1641717086",
       "snowheight": "0-10",
       "remarks": "Weitere Infos unter www.fernskiwanderweg.de",
       "fl_remarks": "",
