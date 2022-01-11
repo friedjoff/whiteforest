@@ -913,12 +913,12 @@
     {
       "SID": "782",
       "ZID": "75",
-      "status": "0",
-      "lastset": "1641886603",
+      "status": "1",
+      "lastset": "1641913711",
       "snowheight": "15-25 cm",
-      "remarks": "",
+      "remarks": "Loipenzustand: stellenweise schlecht<br>Stellenweise schlecht",
       "fl_remarks": "",
-      "date_spur": "24.01.21"
+      "date_spur": "11.01.22"
     },
     {
       "SID": "69",
