@@ -1063,12 +1063,12 @@
     {
       "SID": "779",
       "ZID": "75",
-      "status": "0",
+      "status": "1",
       "lastset": "1643699719",
       "snowheight": "20-40 cm",
-      "remarks": "Stellenweise schlecht",
+      "remarks": "",
       "fl_remarks": "",
-      "date_spur": "28.01.22"
+      "date_spur": "01.02.22"
     },
     {
       "SID": "12049",
@@ -1803,12 +1803,12 @@
     {
       "SID": "781",
       "ZID": "75",
-      "status": "0",
+      "status": "1",
       "lastset": "1643699719",
       "snowheight": "20-40 cm",
-      "remarks": "Spurverlauf geändert",
+      "remarks": "",
       "fl_remarks": "",
-      "date_spur": "21.01.22"
+      "date_spur": "01.02.22"
     },
     {
       "SID": "681",
