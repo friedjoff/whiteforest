@@ -1293,12 +1293,12 @@
     {
       "SID": "788",
       "ZID": "75",
-      "status": "0",
+      "status": "1",
       "lastset": "1643786405",
       "snowheight": "15-35 cm",
-      "remarks": "Stellenweise schlecht",
+      "remarks": "",
       "fl_remarks": "",
-      "date_spur": "28.01.22"
+      "date_spur": "02.02.22"
     },
     {
       "SID": "723",
