@@ -803,12 +803,12 @@
     {
       "SID": "784",
       "ZID": "75",
-      "status": "0",
+      "status": "1",
       "lastset": "1644218663",
       "snowheight": "10-25 cm",
-      "remarks": "Loipengerät defekt",
+      "remarks": "",
       "fl_remarks": "",
-      "date_spur": "02.02.22"
+      "date_spur": "08.02.22"
     },
     {
       "SID": "",
@@ -1273,12 +1273,12 @@
     {
       "SID": "785",
       "ZID": "75",
-      "status": "0",
+      "status": "1",
       "lastset": "1644218663",
       "snowheight": "10-25 cm",
-      "remarks": "Loipengerät defekt",
+      "remarks": "",
       "fl_remarks": "",
-      "date_spur": "02.02.22"
+      "date_spur": "08.02.22"
     },
     {
       "SID": "723",
@@ -1403,12 +1403,12 @@
     {
       "SID": "783",
       "ZID": "75",
-      "status": "0",
+      "status": "1",
       "lastset": "1644218663",
       "snowheight": "10-25 cm",
-      "remarks": "Loipengerät defekt",
+      "remarks": "Stellenweise schlecht",
       "fl_remarks": "",
-      "date_spur": "02.02.22"
+      "date_spur": "08.02.22"
     },
     {
       "SID": "684",
