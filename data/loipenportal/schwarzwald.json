@@ -1783,12 +1783,12 @@
     {
       "SID": "790",
       "ZID": "75",
-      "status": "0",
+      "status": "1",
       "lastset": "1644404473",
       "snowheight": "10-20 cm",
-      "remarks": "Loipengerät defekt",
+      "remarks": "Stellenweise schlecht",
       "fl_remarks": "",
-      "date_spur": "02.02.22"
+      "date_spur": "09.02.22"
     },
     {
       "SID": "670",
