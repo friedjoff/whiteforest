@@ -713,7 +713,7 @@
     {
       "SID": "787",
       "ZID": "75",
-      "status": "1",
+      "status": "0",
       "lastset": "1644404473",
       "snowheight": "10-20 cm",
       "remarks": "Vereinzelt Wasserstellen",
@@ -1243,7 +1243,7 @@
     {
       "SID": "788",
       "ZID": "75",
-      "status": "1",
+      "status": "0",
       "lastset": "1644404473",
       "snowheight": "10-20 cm",
       "remarks": "Vereinzelt Wasserstellen",
