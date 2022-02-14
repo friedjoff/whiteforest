@@ -703,8 +703,8 @@
     {
       "SID": "710",
       "ZID": "43",
-      "status": "1",
-      "lastset": "1644663709",
+      "status": "",
+      "lastset": "1644838165",
       "snowheight": "",
       "remarks": "",
       "fl_remarks": "",
@@ -753,8 +753,8 @@
     {
       "SID": "708",
       "ZID": "43",
-      "status": "1",
-      "lastset": "1644663705",
+      "status": "",
+      "lastset": "1644838151",
       "snowheight": "",
       "remarks": "auch Skating möglich<br/>",
       "fl_remarks": "",
@@ -763,10 +763,10 @@
     {
       "SID": "",
       "ZID": "43",
-      "status": "1",
-      "lastset": "1644663702",
-      "snowheight": "20-30",
-      "remarks": "abends gespurt",
+      "status": "0",
+      "lastset": "1644838199",
+      "snowheight": "0-10",
+      "remarks": "",
       "fl_remarks": "",
       "date_spur": "09.02.20"
     },
@@ -793,8 +793,8 @@
     {
       "SID": "709",
       "ZID": "43",
-      "status": "1",
-      "lastset": "1644663707",
+      "status": "",
+      "lastset": "1644838160",
       "snowheight": "",
       "remarks": "",
       "fl_remarks": "",
@@ -1163,8 +1163,8 @@
     {
       "SID": "711",
       "ZID": "43",
-      "status": "1",
-      "lastset": "1644663711",
+      "status": "",
+      "lastset": "1644838176",
       "snowheight": "",
       "remarks": "",
       "fl_remarks": "",
