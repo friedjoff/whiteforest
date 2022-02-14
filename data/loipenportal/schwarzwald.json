@@ -681,6 +681,16 @@
       "date_spur": "11.02.22"
     },
     {
+      "SID": "739",
+      "ZID": "68",
+      "status": "0",
+      "lastset": "1644832258",
+      "snowheight": "10-20 cm",
+      "remarks": "Loipenzustand: gut<br>",
+      "fl_remarks": "",
+      "date_spur": "12.02.22"
+    },
+    {
       "SID": "744",
       "ZID": "68",
       "status": "0",
@@ -689,16 +699,6 @@
       "remarks": "Loipenzustand: gut<br>",
       "fl_remarks": "",
       "date_spur": "14.02.22"
-    },
-    {
-      "SID": "739",
-      "ZID": "68",
-      "status": "1",
-      "lastset": "1644832258",
-      "snowheight": "10-20 cm",
-      "remarks": "Loipenzustand: gut<br>",
-      "fl_remarks": "",
-      "date_spur": "12.02.22"
     },
     {
       "SID": "653",
@@ -2207,12 +2207,12 @@
     "736": 9,
     "737": 4,
     "738": 3,
-    "739": 69,
+    "739": 68,
     "740": 61,
     "741": 190,
     "742": 32,
     "743": 115,
-    "744": 68,
+    "744": 69,
     "745": 40,
     "746": 186,
     "747": 183,
