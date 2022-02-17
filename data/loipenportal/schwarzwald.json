@@ -503,9 +503,9 @@
     {
       "SID": "2008",
       "ZID": "41",
-      "status": "0",
-      "lastset": "1645081977",
-      "snowheight": "40",
+      "status": "",
+      "lastset": "1645113218",
+      "snowheight": "",
       "remarks": "",
       "fl_remarks": "",
       "date_spur": ""
@@ -783,9 +783,9 @@
     {
       "SID": "707",
       "ZID": "41",
-      "status": "0",
-      "lastset": "1645081989",
-      "snowheight": "40",
+      "status": "",
+      "lastset": "1645113223",
+      "snowheight": "",
       "remarks": "",
       "fl_remarks": "",
       "date_spur": ""
@@ -793,9 +793,9 @@
     {
       "SID": "706",
       "ZID": "41",
-      "status": "0",
-      "lastset": "1645081986",
-      "snowheight": "40",
+      "status": "",
+      "lastset": "1645113222",
+      "snowheight": "",
       "remarks": "",
       "fl_remarks": "",
       "date_spur": ""
@@ -1323,9 +1323,9 @@
     {
       "SID": "703",
       "ZID": "41",
-      "status": "0",
-      "lastset": "1645081974",
-      "snowheight": "40",
+      "status": "",
+      "lastset": "1645113216",
+      "snowheight": "",
       "remarks": "",
       "fl_remarks": "",
       "date_spur": ""
@@ -1493,9 +1493,9 @@
     {
       "SID": "704",
       "ZID": "41",
-      "status": "0",
-      "lastset": "1645081983",
-      "snowheight": "40",
+      "status": "",
+      "lastset": "1645113220",
+      "snowheight": "",
       "remarks": "",
       "fl_remarks": "",
       "date_spur": ""
@@ -1573,9 +1573,9 @@
     {
       "SID": "705",
       "ZID": "41",
-      "status": "0",
-      "lastset": "1645081980",
-      "snowheight": "40",
+      "status": "",
+      "lastset": "1645113219",
+      "snowheight": "",
       "remarks": "",
       "fl_remarks": "",
       "date_spur": ""
