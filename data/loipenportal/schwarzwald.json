@@ -584,9 +584,9 @@
       "SID": "",
       "ZID": "60",
       "status": "1",
-      "lastset": "1644999467",
+      "lastset": "1645089717",
       "snowheight": "50 cm ",
-      "remarks": "",
+      "remarks": "Beachten sie die Unwetterwarnungen der Wetterdienste!!!",
       "fl_remarks": "",
       "date_spur": ""
     },
@@ -2053,8 +2053,8 @@
     {
       "SID": "723",
       "ZID": "60",
-      "status": "1",
-      "lastset": "1644999497",
+      "status": "",
+      "lastset": "1645089730",
       "snowheight": "",
       "remarks": "Wird heute Witterungsbedingt nur bis Gasthaus Stübenwasen u. zurück gespurt. ",
       "fl_remarks": "",
