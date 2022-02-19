@@ -1313,12 +1313,12 @@
     {
       "SID": "703",
       "ZID": "41",
-      "status": "0",
-      "lastset": "1645255543",
+      "status": "1",
+      "lastset": "1645272109",
       "snowheight": "",
-      "remarks": "",
+      "remarks": "Bedingungen stellenweise gut, stellenweise aber auch mäßig. Bodenkontakt möglich! ",
       "fl_remarks": "",
-      "date_spur": ""
+      "date_spur": "19.02.22"
     },
     {
       "SID": "2006",
@@ -1504,9 +1504,9 @@
       "SID": "704",
       "ZID": "41",
       "status": "1",
-      "lastset": "1645255631",
+      "lastset": "1645272120",
       "snowheight": "",
-      "remarks": "",
+      "remarks": "Bedingungen stellenweise gut, stellenweise aber auch mäßig. Bodenkontakt möglich! ",
       "fl_remarks": "",
       "date_spur": "19.02.22"
     },
@@ -1593,12 +1593,12 @@
     {
       "SID": "705",
       "ZID": "41",
-      "status": "0",
-      "lastset": "1645255557",
+      "status": "1",
+      "lastset": "1645272115",
       "snowheight": "",
-      "remarks": "",
+      "remarks": "Bedingungen stellenweise gut, stellenweise aber auch mäßig. Bodenkontakt möglich! ",
       "fl_remarks": "",
-      "date_spur": ""
+      "date_spur": "19.02.22"
     },
     {
       "SID": "686",
