@@ -1363,12 +1363,12 @@
     {
       "SID": "793",
       "ZID": "76",
-      "status": "0",
+      "status": "1",
       "lastset": "1645516068",
       "snowheight": "2-15 cm",
       "remarks": "",
       "fl_remarks": "",
-      "date_spur": "16.02.22"
+      "date_spur": "22.02.22"
     },
     {
       "SID": "783",
@@ -2113,12 +2113,12 @@
     {
       "SID": "794",
       "ZID": "76",
-      "status": "0",
+      "status": "1",
       "lastset": "1645516068",
       "snowheight": "2-15 cm",
       "remarks": "",
       "fl_remarks": "",
-      "date_spur": "16.02.22"
+      "date_spur": "22.02.22"
     }
   ],
   "SInfo_SID_Index": {
