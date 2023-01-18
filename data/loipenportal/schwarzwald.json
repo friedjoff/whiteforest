@@ -51,16 +51,6 @@
       "date_spur": "16.02.22"
     },
     {
-      "SID": "1070",
-      "ZID": "162",
-      "status": "1",
-      "lastset": "1362208401",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
       "SID": "786",
       "ZID": "75",
       "status": "0",
@@ -81,42 +71,12 @@
       "date_spur": "14.02.22"
     },
     {
-      "SID": "1068",
-      "ZID": "143",
-      "status": "0",
-      "lastset": "1612885288",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "1067",
-      "ZID": "143",
-      "status": "1",
-      "lastset": "1643629548",
-      "snowheight": "",
-      "remarks": "Bitte nutzen Sie die Möglichkeit zum Kauf einer \"Loipenmaus\". Diese wird Ihnen in der Ortsverwaltung Wolterdingen, Ortsverwaltung Hubertshofen, Gasthaus \"Zum Schwarzen Buben\" und in der Tourist-Information Donaueschingen angeboten und kostet 5,00€ für die gesamte Wintersaison.",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
       "SID": "654",
       "ZID": "17",
       "status": "1",
       "lastset": "1673887117",
       "snowheight": "",
       "remarks": "www.loipenzentrum.de ",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "675",
-      "ZID": "42",
-      "status": "0",
-      "lastset": "1553843204",
-      "snowheight": "",
-      "remarks": "",
       "fl_remarks": "",
       "date_spur": ""
     },
@@ -129,26 +89,6 @@
       "remarks": "Vereinzelt Wasserstellen",
       "fl_remarks": "",
       "date_spur": "11.02.22"
-    },
-    {
-      "SID": "801",
-      "ZID": "179",
-      "status": "",
-      "lastset": "1385636072",
-      "snowheight": "",
-      "remarks": "Momentan reicht der Schnee noch nicht aus, sobald die Loipe wieder geöffnet ist, erfahren Sie es hier. Aktuelle Informationen auf www.dasferienland.de",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "",
-      "ZID": "162",
-      "status": "1",
-      "lastset": "1362208449",
-      "snowheight": "ca.20 cm",
-      "remarks": "Buchenberger Loipe-Klassisch wurde am 01.03.gespurt,",
-      "fl_remarks": "",
-      "date_spur": ""
     },
     {
       "SID": "665",
@@ -191,16 +131,6 @@
       "date_spur": "23.01.21"
     },
     {
-      "SID": "770",
-      "ZID": "70",
-      "status": "",
-      "lastset": "1513950106",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
       "SID": "763",
       "ZID": "69",
       "status": "0",
@@ -209,46 +139,6 @@
       "remarks": "Loipenzustand: gut<br>",
       "fl_remarks": "",
       "date_spur": "05.03.22"
-    },
-    {
-      "SID": "1072",
-      "ZID": "162",
-      "status": "1",
-      "lastset": "1362208392",
-      "snowheight": "",
-      "remarks": "Klassisch",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "721",
-      "ZID": "139",
-      "status": "",
-      "lastset": "1549307511",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "720",
-      "ZID": "139",
-      "status": "",
-      "lastset": "1549307510",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "1061",
-      "ZID": "179",
-      "status": "",
-      "lastset": "1385636084",
-      "snowheight": "",
-      "remarks": "Momentan reicht der Schnee noch nicht aus, sobald die Loipe wieder geöffnet ist, erfahren Sie es hier. Aktuelle Informationen auf www.dasferienland.de",
-      "fl_remarks": "",
-      "date_spur": ""
     },
     {
       "SID": "776",
@@ -271,72 +161,12 @@
       "date_spur": "11.12.21"
     },
     {
-      "SID": "",
-      "ZID": "143",
-      "status": "1",
-      "lastset": "1643629555",
-      "snowheight": "",
-      "remarks": "Bitte nutzen Sie die Möglichkeit zum Kauf einer \"Schneemaus\". Diese wird Ihnen in der Tourist-Information angeboten und kostet 5 Euro für die gesamte Wintersaison. ",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "802",
-      "ZID": "179",
-      "status": "",
-      "lastset": "1385636075",
-      "snowheight": "",
-      "remarks": "Momentan reicht der Schnee noch nicht aus, sobald die Loipe wieder geöffnet ist, erfahren Sie es hier. Aktuelle Informationen auf www.dasferienland.de",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "1071",
-      "ZID": "162",
-      "status": "1",
-      "lastset": "1360938266",
-      "snowheight": "",
-      "remarks": "Klassisch",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
       "SID": "12238",
       "ZID": "60",
       "status": "0",
       "lastset": "1671616884",
       "snowheight": "",
       "remarks": "Bitte nicht kreuz u. quer laufen und auf den  Winterwanderwegen bleiben um die Wildtiere zu schonen. www.bewusstwild.de",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "1069",
-      "ZID": "162",
-      "status": "1",
-      "lastset": "1362208433",
-      "snowheight": "",
-      "remarks": "gespurt am 23.02.<br/>6 km Skating/ 9 km klassisch",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "742",
-      "ZID": "68",
-      "status": "1",
-      "lastset": "1638775803",
-      "snowheight": "10-20 cm",
-      "remarks": "Schneezustand: gebundener Neuschnee<br>",
-      "fl_remarks": "",
-      "date_spur": "29.12.20"
-    },
-    {
-      "SID": "1060",
-      "ZID": "178",
-      "status": "",
-      "lastset": "1613891525",
-      "snowheight": "",
-      "remarks": "",
       "fl_remarks": "",
       "date_spur": ""
     },
@@ -361,26 +191,6 @@
       "date_spur": ""
     },
     {
-      "SID": "",
-      "ZID": "179",
-      "status": "0",
-      "lastset": "1640505755",
-      "snowheight": "0 cm",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "718",
-      "ZID": "139",
-      "status": "",
-      "lastset": "1549307509",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
       "SID": "2005",
       "ZID": "39",
       "status": "0",
@@ -399,16 +209,6 @@
       "remarks": "Loipenzustand: gut<br>Weitere Loipen- und Wetterinfos auch auf www.feldberg-loipen.de",
       "fl_remarks": "",
       "date_spur": "18.01.23"
-    },
-    {
-      "SID": "672",
-      "ZID": "42",
-      "status": "0",
-      "lastset": "1553843207",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "jeden Montag, Mittwoch und Freitag von 19°° - 21°° Uhr offen.<br/>",
-      "date_spur": ""
     },
     {
       "SID": "753",
@@ -441,36 +241,6 @@
       "date_spur": "11.02.22"
     },
     {
-      "SID": "751",
-      "ZID": "176",
-      "status": "0",
-      "lastset": "1547626164",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "1056",
-      "ZID": "205",
-      "status": "0",
-      "lastset": "1512002960",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "",
-      "ZID": "178",
-      "status": "0",
-      "lastset": "1616143458",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
       "SID": "713",
       "ZID": "137",
       "status": "0",
@@ -479,16 +249,6 @@
       "remarks": "",
       "fl_remarks": "",
       "date_spur": "08.02.22"
-    },
-    {
-      "SID": "",
-      "ZID": "175",
-      "status": "0",
-      "lastset": "1648032017",
-      "snowheight": "0 - 5 cm",
-      "remarks": "Saison-Ende - Vielen Dank für Ihren Besuch.<br/>Wir freuen uns auf ein Wiedersehn zur Saison 2022/2023<br/><br/>Klassisch und Sakting<br/><br/>Loipenbericht:<br/>https://www.skizunft-<br/>brend.de/skiloipemartinskapelle/loipenbericht/<br/><br/>Bitte beachten Sie die aktuellen Corona-Verordnungen (Abstandsregelung: mind. 1,5 m Abstand).",
-      "fl_remarks": "",
-      "date_spur": "19.03.22"
     },
     {
       "SID": "2002",
@@ -521,71 +281,11 @@
       "date_spur": "08.02.22"
     },
     {
-      "SID": "677",
-      "ZID": "42",
-      "status": "0",
-      "lastset": "1553843196",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "796",
-      "ZID": "174",
-      "status": "1",
-      "lastset": "1552900945",
-      "snowheight": "40",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": "16.03.19"
-    },
-    {
       "SID": "2008",
       "ZID": "41",
       "status": "0",
       "lastset": "1674034745",
       "snowheight": "0",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "670",
-      "ZID": "175",
-      "status": "",
-      "lastset": "1648025974",
-      "snowheight": "0 - 5 cm",
-      "remarks": "Klassisch und Skating.<br/><br/>nicht mehr befahrbar.<br/><br/>Bitte beachten Sie die aktuellen Corona-Verordnungen (Abstandsregelung: mind. 1,5 m Abstand).<br/><br/>Loipenbericht:<br/>https://www.skizunft-<br/>brend.de/skiloipemartinskapelle/loipenbericht/",
-      "fl_remarks": "Di/Do 17.30-19.30 Uhr beleuchtet",
-      "date_spur": "11.03.22"
-    },
-    {
-      "SID": "860",
-      "ZID": "70",
-      "status": "",
-      "lastset": "1513950102",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "775",
-      "ZID": "110",
-      "status": "1",
-      "lastset": "1638948546",
-      "snowheight": "10-20 cm",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": "07.12.21"
-    },
-    {
-      "SID": "717",
-      "ZID": "139",
-      "status": "",
-      "lastset": "1549307507",
-      "snowheight": "",
       "remarks": "",
       "fl_remarks": "",
       "date_spur": ""
@@ -599,56 +299,6 @@
       "remarks": "",
       "fl_remarks": "",
       "date_spur": ""
-    },
-    {
-      "SID": "12047",
-      "ZID": "60",
-      "status": "0",
-      "lastset": "1648803398",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "3027",
-      "ZID": "143",
-      "status": "1",
-      "lastset": "1643629544",
-      "snowheight": "",
-      "remarks": "Bitte nutzen Sie die Möglichkeit zum Kauf einer \"Loipenmaus\". Diese wird Ihnen in der Ortsverwaltung Wolterdingen, Ortsverwaltung Hubertshofen, Gasthaus \"Zum Schwarzen Buben\" und in der Tourist-Information Donaueschingen angeboten und kostet 5,00€ für die gesamte Wintersaison.",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "",
-      "ZID": "174",
-      "status": "1",
-      "lastset": "1552900938",
-      "snowheight": "30",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": "16.03.19"
-    },
-    {
-      "SID": "760",
-      "ZID": "69",
-      "status": "0",
-      "lastset": "1609502178",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "666",
-      "ZID": "175",
-      "status": "",
-      "lastset": "1648025982",
-      "snowheight": "0 - 0 cm",
-      "remarks": "Klassisch und Skating.<br/><br/>Bitte beachten Sie die aktuellen Corona-Verordnungen (Abstandsregelung: mind. 1,5 m Abstand). <br/><br/>Loipenbericht:<br/>https://www.skizunft-<br/>brend.de/skiloipemartinskapelle/loipenbericht/",
-      "fl_remarks": "",
-      "date_spur": "12.02.22"
     },
     {
       "SID": "761",
@@ -671,32 +321,12 @@
       "date_spur": ""
     },
     {
-      "SID": "800",
-      "ZID": "174",
-      "status": "",
-      "lastset": "1552900953",
-      "snowheight": "25",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": "16.03.19"
-    },
-    {
       "SID": "660",
       "ZID": "17",
       "status": "0",
       "lastset": "1673887109",
       "snowheight": "",
       "remarks": "www.loipenzentrum.de",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "767",
-      "ZID": "178",
-      "status": "",
-      "lastset": "1613891520",
-      "snowheight": "",
-      "remarks": "",
       "fl_remarks": "",
       "date_spur": ""
     },
@@ -741,16 +371,6 @@
       "date_spur": "18.01.23"
     },
     {
-      "SID": "710",
-      "ZID": "43",
-      "status": "",
-      "lastset": "1644838165",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
       "SID": "704",
       "ZID": "41",
       "status": "1",
@@ -781,16 +401,6 @@
       "date_spur": "11.02.22"
     },
     {
-      "SID": "",
-      "ZID": "76",
-      "status": "1",
-      "lastset": "1547568399",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
       "SID": "707",
       "ZID": "41",
       "status": "0",
@@ -806,36 +416,6 @@
       "status": "0",
       "lastset": "1674034747",
       "snowheight": "0",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "708",
-      "ZID": "43",
-      "status": "",
-      "lastset": "1644838151",
-      "snowheight": "",
-      "remarks": "auch Skating möglich<br/>",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "",
-      "ZID": "43",
-      "status": "0",
-      "lastset": "1646123280",
-      "snowheight": "0-15",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "766",
-      "ZID": "178",
-      "status": "",
-      "lastset": "1613891528",
-      "snowheight": "",
       "remarks": "",
       "fl_remarks": "",
       "date_spur": ""
@@ -861,26 +441,6 @@
       "date_spur": "10.01.22"
     },
     {
-      "SID": "668",
-      "ZID": "175",
-      "status": "",
-      "lastset": "1648026007",
-      "snowheight": "0 - 5 cm",
-      "remarks": "Klassisch und Skating, durchbrochen.<br/><br/>Bitte beachten Sie die aktuellen Corona-Verordnungen (Abstandsregelung: mind. 1,5 m Abstand).<br/><br/><br/>Loipenbericht:<br/>https://www.skizunft-<br/>brend.de/skiloipemartinskapelle/loipenbericht/",
-      "fl_remarks": "",
-      "date_spur": "19.03.22"
-    },
-    {
-      "SID": "709",
-      "ZID": "43",
-      "status": "",
-      "lastset": "1644838160",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
       "SID": "754",
       "ZID": "177",
       "status": "0",
@@ -901,16 +461,6 @@
       "date_spur": ""
     },
     {
-      "SID": "797",
-      "ZID": "174",
-      "status": "1",
-      "lastset": "1552900992",
-      "snowheight": "25",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": "16.03.19"
-    },
-    {
       "SID": "784",
       "ZID": "75",
       "status": "0",
@@ -919,16 +469,6 @@
       "remarks": "",
       "fl_remarks": "",
       "date_spur": "11.02.22"
-    },
-    {
-      "SID": "764",
-      "ZID": "178",
-      "status": "",
-      "lastset": "1613891514",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
     },
     {
       "SID": "772",
@@ -951,16 +491,6 @@
       "date_spur": ""
     },
     {
-      "SID": "69",
-      "ZID": "20",
-      "status": "0",
-      "lastset": "1227687033",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
       "SID": "659",
       "ZID": "17",
       "status": "0",
@@ -969,66 +499,6 @@
       "remarks": "www.loipenzentrum.de",
       "fl_remarks": "",
       "date_spur": ""
-    },
-    {
-      "SID": "",
-      "ZID": "110",
-      "status": "1",
-      "lastset": "1643974491",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "769",
-      "ZID": "178",
-      "status": "",
-      "lastset": "1613891511",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "678",
-      "ZID": "42",
-      "status": "0",
-      "lastset": "1553843187",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "",
-      "ZID": "42",
-      "status": "0",
-      "lastset": "1553843164",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "1066",
-      "ZID": "143",
-      "status": "1",
-      "lastset": "1643629546",
-      "snowheight": "",
-      "remarks": "Dienstag und Donnerstag, 19:00 - 21:00 Uhr geöffnet. Bitte nutzen Sie die Möglichkeit zum Kauf einer \"Loipenmaus\". Diese wird Ihnen in der Ortsverwaltung Wolterdingen, Ortsverwaltung Hubertshofen, Gasthaus \"Zum Schwarzen Buben\" und in der Tourist-Information Donaueschingen angeboten und kostet 5,00€ für die gesamte Wintersaison.",
-      "fl_remarks": "Dienstag und Donnerstag, 19:00 - 21:00 Uhr geöffnet.",
-      "date_spur": ""
-    },
-    {
-      "SID": "667",
-      "ZID": "175",
-      "status": "",
-      "lastset": "1648025990",
-      "snowheight": "0 - 5 cm",
-      "remarks": "Klassisch und Skating, durchbrochen.<br/><br/>Bitte beachten Sie die aktuellen Corona-Verordnungen (Abstandsregelung: mind. 1,5 m Abstand).<br/><br/>Loipenbericht:<br/>https://www.skizunft-<br/>brend.de/skiloipemartinskapelle/loipenbericht/",
-      "fl_remarks": "",
-      "date_spur": "19.03.22"
     },
     {
       "SID": "679",
@@ -1041,42 +511,12 @@
       "date_spur": "17.01.23"
     },
     {
-      "SID": "680",
-      "ZID": "117",
-      "status": "0",
-      "lastset": "1645771077",
-      "snowheight": "15-75 cm",
-      "remarks": "Loipenzustand: gut<br>Schneezustand: gebundener Neuschnee<br>Die Freestylestrecke wird nicht mehr in Betrieb genommen!",
-      "fl_remarks": "",
-      "date_spur": "13.12.20"
-    },
-    {
       "SID": "655",
       "ZID": "17",
       "status": "1",
       "lastset": "1674026971",
       "snowheight": "15 cm",
       "remarks": "www.loipenzentrum.de",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "795",
-      "ZID": "76",
-      "status": "0",
-      "lastset": "1547569416",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "3026",
-      "ZID": "143",
-      "status": "0",
-      "lastset": "1549879048",
-      "snowheight": "",
-      "remarks": " Bitte nutzen Sie die Möglichkeit zum Kauf einer \"Schneemaus\". Diese wird Ihnen in der Tourist-Information Donaueschingen angeboten und kostet 5 Euro für die gesamte Wintersaison.",
       "fl_remarks": "",
       "date_spur": ""
     },
@@ -1091,72 +531,12 @@
       "date_spur": ""
     },
     {
-      "SID": "1055",
-      "ZID": "205",
-      "status": "0",
-      "lastset": "1512002957",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
       "SID": "",
       "ZID": "177",
       "status": "0",
       "lastset": "1671204404",
       "snowheight": "1 - 5 cm",
       "remarks": "Klassisch und Skating<br/><br/><br/>",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "858",
-      "ZID": "70",
-      "status": "",
-      "lastset": "1513950099",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "862",
-      "ZID": "70",
-      "status": "",
-      "lastset": "1513950093",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "798",
-      "ZID": "174",
-      "status": "0",
-      "lastset": "1552900959",
-      "snowheight": "25",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "730",
-      "ZID": "126",
-      "status": "",
-      "lastset": "1513950015",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "719",
-      "ZID": "139",
-      "status": "",
-      "lastset": "1549307508",
-      "snowheight": "",
-      "remarks": "",
       "fl_remarks": "",
       "date_spur": ""
     },
@@ -1179,16 +559,6 @@
       "remarks": "Vereinzelt Wasserstellen",
       "fl_remarks": "",
       "date_spur": "13.02.22"
-    },
-    {
-      "SID": "12049",
-      "ZID": "60",
-      "status": "0",
-      "lastset": "1648809462",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
     },
     {
       "SID": "863",
@@ -1231,16 +601,6 @@
       "date_spur": ""
     },
     {
-      "SID": "711",
-      "ZID": "43",
-      "status": "",
-      "lastset": "1644838176",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
       "SID": "782",
       "ZID": "75",
       "status": "0",
@@ -1269,16 +629,6 @@
       "remarks": "",
       "fl_remarks": "",
       "date_spur": "11.02.22"
-    },
-    {
-      "SID": "768",
-      "ZID": "178",
-      "status": "",
-      "lastset": "1613891517",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
     },
     {
       "SID": "733",
@@ -1321,16 +671,6 @@
       "date_spur": "16.02.22"
     },
     {
-      "SID": "",
-      "ZID": "186",
-      "status": "0",
-      "lastset": "1648620284",
-      "snowheight": "10-60",
-      "remarks": "Weitere Infos über Streckenführung: www.fernskiwanderweg.de<br/>Nicht alle Teilstrecken gespurt. Siehe auch Hinweise der Teilstrecken. Teilstrecke Rinken - Todtnauer Hütte nicht präpariert. tw. aper!  ",
-      "fl_remarks": "",
-      "date_spur": "12.02.22"
-    },
-    {
       "SID": "663",
       "ZID": "173",
       "status": "0",
@@ -1361,16 +701,6 @@
       "date_spur": "16.02.22"
     },
     {
-      "SID": "676",
-      "ZID": "42",
-      "status": "0",
-      "lastset": "1553843182",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
       "SID": "1075",
       "ZID": "60",
       "status": "1",
@@ -1379,16 +709,6 @@
       "remarks": "Start am 23.01.2023!<br/>Nutzung für Inhaber der Nordic-Card oder für Mitglieder VNL ab 17.00 Uhr ",
       "fl_remarks": "",
       "date_spur": ""
-    },
-    {
-      "SID": "669",
-      "ZID": "175",
-      "status": "",
-      "lastset": "1648025996",
-      "snowheight": "0 - 5 cm",
-      "remarks": "Klassisch und Skating,<br/><br/>Bitte beachten Sie die aktuellen Corona-Verordnungen (Abstandsregelung: mind. 1,5 m Abstand). <br/><br/>Loipenbericht:<br/>https://www.skizunft-<br/>brend.de/skiloipemartinskapelle/loipenbericht/",
-      "fl_remarks": "",
-      "date_spur": "12.02.22"
     },
     {
       "SID": "735",
@@ -1429,16 +749,6 @@
       "remarks": "",
       "fl_remarks": "",
       "date_spur": "11.02.22"
-    },
-    {
-      "SID": "",
-      "ZID": "205",
-      "status": "0",
-      "lastset": "1512002980",
-      "snowheight": "30",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
     },
     {
       "SID": "793",
@@ -1511,16 +821,6 @@
       "date_spur": ""
     },
     {
-      "SID": "674",
-      "ZID": "42",
-      "status": "0",
-      "lastset": "1553843192",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
       "SID": "695",
       "ZID": "39",
       "status": "0",
@@ -1545,26 +845,6 @@
       "ZID": "187",
       "status": "0",
       "lastset": "1672642918",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "673",
-      "ZID": "42",
-      "status": "0",
-      "lastset": "1553843177",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "652",
-      "ZID": "186",
-      "status": "",
-      "lastset": "1610352245",
       "snowheight": "",
       "remarks": "",
       "fl_remarks": "",
@@ -1597,26 +877,6 @@
       "lastset": "1674024110",
       "snowheight": "15-20 cm",
       "remarks": "Loipenzustand: gut<br>",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "",
-      "ZID": "139",
-      "status": "1",
-      "lastset": "1549307534",
-      "snowheight": "ca. 45 cm",
-      "remarks": "Sehr gute Bedingungen",
-      "fl_remarks": "",
-      "date_spur": "04.02.19"
-    },
-    {
-      "SID": "799",
-      "ZID": "174",
-      "status": "0",
-      "lastset": "1552900961",
-      "snowheight": "25",
-      "remarks": "",
       "fl_remarks": "",
       "date_spur": ""
     },
@@ -1731,16 +991,6 @@
       "date_spur": ""
     },
     {
-      "SID": "1065",
-      "ZID": "20",
-      "status": "0",
-      "lastset": "1640879534",
-      "snowheight": "0",
-      "remarks": "Loipenzustand: stellenweise schlecht<br>Stellenweise schlecht",
-      "fl_remarks": "",
-      "date_spur": "17.12.21"
-    },
-    {
       "SID": "2003",
       "ZID": "70",
       "status": "0",
@@ -1771,16 +1021,6 @@
       "date_spur": ""
     },
     {
-      "SID": "",
-      "ZID": "69",
-      "status": "1",
-      "lastset": "1609502103",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
       "SID": "774",
       "ZID": "70",
       "status": "0",
@@ -1799,16 +1039,6 @@
       "remarks": "",
       "fl_remarks": "",
       "date_spur": ""
-    },
-    {
-      "SID": "671",
-      "ZID": "175",
-      "status": "1",
-      "lastset": "1647416254",
-      "snowheight": "20 - 40 cm",
-      "remarks": "Klassisch und Skating.<br/><br/>Bitte beachten Sie die aktuellen Corona-Verordnungen (Abstandsregelung: mind. 1,5 m Abstand). ",
-      "fl_remarks": "",
-      "date_spur": "02.03.22"
     },
     {
       "SID": "696",
@@ -1911,16 +1141,6 @@
       "date_spur": ""
     },
     {
-      "SID": "748",
-      "ZID": "176",
-      "status": "0",
-      "lastset": "1547626162",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
       "SID": "",
       "ZID": "176",
       "status": "0",
@@ -1936,16 +1156,6 @@
       "status": "1",
       "lastset": "1674025934",
       "snowheight": "30 cm ",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "765",
-      "ZID": "178",
-      "status": "",
-      "lastset": "1613891522",
-      "snowheight": "",
       "remarks": "",
       "fl_remarks": "",
       "date_spur": ""
@@ -1981,26 +1191,6 @@
       "date_spur": "07.03.22"
     },
     {
-      "SID": "12210",
-      "ZID": "60",
-      "status": "0",
-      "lastset": "1641451044",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "1076",
-      "ZID": "60",
-      "status": "0",
-      "lastset": "1641451048",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
       "SID": "724",
       "ZID": "60",
       "status": "0",
@@ -2011,52 +1201,12 @@
       "date_spur": ""
     },
     {
-      "SID": "771",
-      "ZID": "70",
-      "status": "1",
-      "lastset": "1512458861",
-      "snowheight": "20-35 cm",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": "03.12.17"
-    },
-    {
       "SID": "701",
       "ZID": "187",
       "status": "",
       "lastset": "1669376058",
       "snowheight": "",
       "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "12208",
-      "ZID": "60",
-      "status": "0",
-      "lastset": "1641451036",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "1077",
-      "ZID": "60",
-      "status": "0",
-      "lastset": "1641451053",
-      "snowheight": "",
-      "remarks": "",
-      "fl_remarks": "",
-      "date_spur": ""
-    },
-    {
-      "SID": "734",
-      "ZID": "126",
-      "status": "0",
-      "lastset": "1573753451",
-      "snowheight": "0",
-      "remarks": "Loipenzustand: nicht präpariert<br>",
       "fl_remarks": "",
       "date_spur": ""
     },
@@ -2091,16 +1241,6 @@
       "date_spur": ""
     },
     {
-      "SID": "2001",
-      "ZID": "175",
-      "status": "",
-      "lastset": "1648025960",
-      "snowheight": "0 - 5 cm",
-      "remarks": "Klassisch und Skating.<br/><br/>Bitte beachten Sie die aktuellen Corona-Verordnungen (Abstandsregelung: mind. 1,5 m Abstand).<br/><br/>Loipenbericht:<br/>https://www.skizunft-<br/>brend.de/skiloipemartinskapelle/loipenbericht/",
-      "fl_remarks": "",
-      "date_spur": "12.02.22"
-    },
-    {
       "SID": "794",
       "ZID": "76",
       "status": "0",
@@ -2122,219 +1262,133 @@
     }
   ],
   "SInfo_SID_Index": {
-    "69": 95,
-    "652": 156,
-    "653": 72,
-    "654": 10,
-    "655": 105,
-    "656": 172,
-    "657": 35,
-    "658": 17,
-    "659": 96,
-    "660": 68,
-    "661": 108,
-    "662": 12,
-    "663": 133,
-    "664": 84,
-    "665": 15,
-    "666": 64,
-    "667": 102,
-    "668": 86,
-    "669": 138,
-    "670": 55,
-    "671": 180,
-    "672": 40,
-    "673": 155,
-    "674": 151,
-    "675": 11,
-    "676": 136,
-    "677": 52,
-    "678": 99,
-    "679": 103,
-    "680": 104,
-    "681": 159,
-    "684": 39,
-    "685": 176,
-    "686": 157,
-    "687": 66,
-    "688": 170,
-    "689": 196,
-    "690": 195,
-    "691": 207,
-    "692": 158,
-    "693": 134,
-    "694": 186,
-    "695": 152,
-    "696": 181,
-    "697": 140,
-    "698": 50,
-    "700": 154,
-    "701": 202,
-    "702": 145,
-    "703": 122,
-    "704": 75,
-    "705": 185,
-    "706": 80,
-    "707": 79,
-    "708": 81,
-    "709": 87,
-    "710": 74,
-    "711": 123,
-    "712": 162,
-    "713": 47,
-    "714": 76,
-    "715": 150,
-    "716": 171,
-    "717": 58,
-    "718": 37,
-    "719": 115,
-    "720": 23,
-    "721": 22,
+    "653": 35,
+    "654": 7,
+    "655": 51,
+    "656": 98,
+    "657": 18,
+    "658": 11,
+    "659": 49,
+    "660": 32,
+    "661": 52,
+    "662": 8,
+    "663": 67,
+    "664": 42,
+    "665": 9,
+    "679": 50,
+    "681": 87,
+    "684": 20,
+    "685": 101,
+    "686": 85,
+    "687": 31,
+    "688": 96,
+    "689": 117,
+    "690": 116,
+    "691": 122,
+    "692": 86,
+    "693": 68,
+    "694": 109,
+    "695": 82,
+    "696": 104,
+    "697": 72,
+    "698": 26,
+    "700": 84,
+    "701": 120,
+    "702": 76,
+    "703": 59,
+    "704": 37,
+    "705": 108,
+    "706": 41,
+    "707": 40,
+    "712": 88,
+    "713": 24,
+    "714": 38,
+    "715": 81,
+    "716": 97,
     "722": 2,
-    "723": 125,
-    "724": 200,
-    "725": 89,
-    "726": 169,
-    "727": 206,
+    "723": 61,
+    "724": 119,
+    "725": 45,
+    "726": 95,
+    "727": 121,
     "728": 1,
-    "729": 26,
-    "730": 114,
-    "731": 51,
+    "729": 15,
+    "731": 27,
     "732": 0,
-    "733": 128,
-    "734": 205,
-    "735": 139,
-    "736": 7,
-    "737": 34,
+    "733": 63,
+    "735": 71,
+    "736": 6,
+    "737": 17,
     "738": 3,
-    "739": 146,
-    "740": 73,
-    "741": 211,
-    "742": 32,
-    "743": 121,
-    "744": 71,
-    "745": 42,
-    "746": 183,
-    "747": 179,
-    "748": 191,
-    "749": 167,
-    "750": 208,
-    "751": 44,
-    "752": 94,
-    "753": 41,
-    "754": 88,
-    "755": 189,
-    "756": 129,
-    "757": 85,
-    "758": 120,
-    "759": 43,
-    "760": 63,
-    "761": 65,
-    "762": 70,
-    "763": 20,
-    "764": 92,
-    "765": 194,
-    "766": 83,
-    "767": 69,
-    "768": 127,
-    "769": 98,
-    "770": 19,
-    "771": 201,
-    "772": 93,
-    "773": 142,
-    "774": 178,
-    "775": 57,
-    "776": 25,
-    "777": 135,
-    "778": 126,
-    "779": 117,
-    "780": 148,
-    "781": 188,
-    "782": 124,
-    "783": 147,
-    "784": 91,
-    "785": 131,
-    "786": 6,
-    "787": 77,
-    "788": 130,
-    "789": 182,
-    "790": 175,
-    "791": 18,
+    "739": 77,
+    "740": 36,
+    "741": 125,
+    "743": 58,
+    "744": 34,
+    "745": 22,
+    "746": 106,
+    "747": 103,
+    "749": 93,
+    "750": 123,
+    "752": 48,
+    "753": 21,
+    "754": 44,
+    "755": 112,
+    "756": 64,
+    "757": 43,
+    "758": 57,
+    "759": 23,
+    "761": 30,
+    "762": 33,
+    "763": 13,
+    "772": 47,
+    "773": 74,
+    "774": 102,
+    "776": 14,
+    "777": 69,
+    "778": 62,
+    "779": 55,
+    "780": 79,
+    "781": 111,
+    "782": 60,
+    "783": 78,
+    "784": 46,
+    "785": 66,
+    "786": 5,
+    "787": 39,
+    "788": 65,
+    "789": 105,
+    "790": 100,
+    "791": 12,
     "792": 4,
-    "793": 144,
-    "794": 210,
-    "795": 106,
-    "796": 53,
-    "797": 90,
-    "798": 113,
-    "799": 161,
-    "800": 67,
-    "801": 13,
-    "802": 28,
-    "858": 111,
-    "859": 153,
-    "860": 56,
-    "861": 197,
-    "862": 112,
-    "863": 119,
-    "1055": 109,
-    "1056": 45,
-    "1060": 33,
-    "1061": 24,
-    "1062": 164,
-    "1063": 149,
-    "1064": 187,
-    "1065": 173,
-    "1066": 101,
-    "1067": 9,
-    "1068": 8,
-    "1069": 31,
-    "1070": 5,
-    "1071": 29,
-    "1072": 21,
-    "1075": 137,
-    "1076": 199,
-    "1077": 204,
-    "2000": 166,
-    "2001": 209,
-    "2002": 49,
-    "2003": 174,
-    "2004": 16,
-    "2005": 38,
-    "2006": 116,
-    "2007": 193,
-    "2008": 54,
-    "3026": 107,
-    "3027": 61,
-    "12045": 59,
-    "12047": 60,
-    "12049": 118,
-    "12208": 203,
-    "12210": 198,
-    "12236": 190,
-    "12237": 165,
-    "12238": 30
+    "793": 75,
+    "794": 124,
+    "859": 83,
+    "861": 118,
+    "863": 56,
+    "1062": 90,
+    "1063": 80,
+    "1064": 110,
+    "1075": 70,
+    "2000": 92,
+    "2002": 25,
+    "2003": 99,
+    "2004": 10,
+    "2005": 19,
+    "2006": 54,
+    "2007": 115,
+    "2008": 28,
+    "12045": 29,
+    "12236": 113,
+    "12237": 91,
+    "12238": 16
   },
   "SInfo_ZID_Index": {
-    "17": 141,
-    "41": 168,
-    "42": 100,
-    "43": 82,
-    "60": 184,
-    "69": 177,
-    "76": 78,
-    "110": 97,
-    "139": 160,
-    "143": 27,
-    "162": 14,
-    "174": 62,
-    "175": 48,
-    "176": 192,
-    "177": 110,
-    "178": 46,
-    "179": 36,
-    "186": 132,
-    "187": 163,
-    "205": 143
+    "17": 73,
+    "41": 94,
+    "60": 107,
+    "176": 114,
+    "177": 53,
+    "187": 89
   }
 }
